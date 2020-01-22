@@ -1,0 +1,19 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+}
+.foodTitle {
+   border: 2px solid black;
+}
+.foodEthnicity {
+    border: 1px solid blue;
+}
+.foodCategory {
+    border: 1px solid black;
+}
+.ingredients {
+    border: 5px solid red;
+}
+.countriesOrigin {
+    border: 2px dotted green;
+}
